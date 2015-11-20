@@ -1,0 +1,21 @@
+{
+  "name": "gulp-landing",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Устинов Алексей Геннадьевич <ustinov@nports.ru>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
